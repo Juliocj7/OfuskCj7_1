@@ -12,13 +12,13 @@ gem install lolcat
 
 apt install pv
 
-git clone 
+git clone https://github.com/Juliocj7/OfuskCj7
 
-cd
+cd OfuskCj7
 
-chmod 777 
+chmod 777 OfuskCj7.sh
 
-bash
+bash OfuskCj7.sh
 
 # --------------------
 
