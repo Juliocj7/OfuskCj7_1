@@ -1,29 +1,40 @@
+<a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a>
+
+## Menú Principal :
 ![Screenshot_20210616-232505_Termux](https://user-images.githubusercontent.com/81049859/122328066-f5738080-cefc-11eb-94b8-ccd832751b5a.png)
+
 # OfuskCj7 :
-Ofuscador de Script Bash usando la herramienta SHC >> By: JulioCj7
+Mi **Primer Ofuscador** de Script Bash.
+- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-# Instalación :
+## Instalación :
 
-apt update && apt upgrade -y
+* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
 
-pkg install -y git
+~~~
+https://github.com/Juliocj7/UtilsCj7
+~~~
 
-gem install lolcat
+* `apt update && apt upgrade -y`
 
-apt install pv
+* `pkg install -y git`
 
-git clone https://github.com/Juliocj7/OfuskCj7
+* `gem install lolcat`
 
-cd OfuskCj7
+* `apt install pv`
 
-chmod 777 OfuskCj7.sh
+* `git clone https://github.com/Juliocj7/OfuskCj7`
 
-bash OfuskCj7.sh
+* `cd OfuskCj7`
+
+* `chmod 777 OfuskCj7.sh`
+
+* `bash OfuskCj7.sh`
 
 # --------------------
 
-By: JulioCj7
+> By: JulioCj7 :stuck_out_tongue_winking_eye:
 
-WhatsApp: +59179424937
+> WhatsApp: +59179424937
 
 # --------------------
