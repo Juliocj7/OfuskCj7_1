@@ -24,13 +24,14 @@
 
 
 ## Menú Principal :
-![Screenshot_20210820-125954_Termux](https://user-images.githubusercontent.com/81049859/130301876-e8548b4d-b52f-4e85-9b87-fba098feaf19.png)
+![Screenshot_20220530-111843_Termux](https://user-images.githubusercontent.com/81049859/171022109-659d8240-5f77-44ef-86df-48068cf8628a.png)
+
 
 
 ## Script Ofuscado :
 ![Screenshot_20210715-172643_Termux](https://user-images.githubusercontent.com/81049859/125860056-11c10b9d-a595-41ea-8e5c-e7b7b0c9011a.png)
 
-## OfuskCj7_1 :
+## OfuskCj7 1 :
 * Mi **Primer Ofuscador** de BashScript.
 - > ` Ofuscador: SHC `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
