@@ -23,7 +23,9 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221227-232633_Termux](https://user-images.githubusercontent.com/81049859/209753039-bd8b6940-7fc2-4ceb-b107-f66f10c886a0.png)
+![1000328320](https://github.com/Juliocj7/OfuskCj7_1/assets/81049859/4bdd4183-e748-4843-9022-32698e528858)
+
+- > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
 
 ## OfuskCj7 1 :
 * Mi **Primer Ofuscador** de BashScript.
