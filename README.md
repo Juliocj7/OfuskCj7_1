@@ -25,11 +25,12 @@
 ## Menú Principal :
 ![1000328320](https://github.com/Juliocj7/OfuskCj7_1/assets/81049859/4bdd4183-e748-4843-9022-32698e528858)
 
-- > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
+> [!IMPORTANT]
+> Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público :sunglasses:
 
 ## OfuskCj7 1 :
 * Mi **Primer Ofuscador** de BashScript.
-- > ` Ofuscador: SHC `
+- Ofuscador: ` SHC `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
