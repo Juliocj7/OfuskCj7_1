@@ -45,12 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328320](https://github.com/Juliocj7/OfuskCj7_1/assets/81049859/4bdd4183-e748-4843-9022-32698e528858)
 
-> [!IMPORTANT]
-> Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público :sunglasses:
+> [!CAUTION]
+> > El desofuscador se encuentra en mi versión `PREMIUM`, por lo tanto NO se encuentra activado en este script público :sunglasses:
 
 ## OfuskCj7 1 :
-* Mi **Primer Ofuscador** de BashScript.
-- Ofuscador: ` SHC `
+* Mi primer **ofuscador** de BashScript.
+* Ofuscador: ` SHC `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -58,17 +58,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/OfuskCj7_1`
-
-* `cd OfuskCj7_1`
-
-* `chmod +x *`
-
-* `./OfuskCj71`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/OfuskCj71
+```
+###### 03. Ahora disfruta xD
+```shell
+cd OfuskCj71 && chmod +x * && ./OfuskCj71
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
