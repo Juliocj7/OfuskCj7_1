@@ -50,7 +50,7 @@ ______________________________________________________
 
 ## OfuskCj7 1 :
 * Mi primer **ofuscador** de BashScript.
-* Sistema: ` SHC `
+* Ofuscador: ` SHC `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
