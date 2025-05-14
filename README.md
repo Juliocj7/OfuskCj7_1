@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328320](https://github.com/Juliocj7/OfuskCj7_1/assets/81049859/4bdd4183-e748-4843-9022-32698e528858)
+[![1000328320](https://github.com/user-attachments/assets/8df8b5c8-44e9-4c48-b6c4-701f86e7e713)](#---)
 
 > [!CAUTION]
 > > El desofuscador se encuentra en mi versión `𝙿𝚁𝙴𝙼𝙸𝚄𝙼`, por lo tanto NO se encuentra activado en este script público :sunglasses:
